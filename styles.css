@@ -1,0 +1,40 @@
+
+.principal{
+    background-image: url=("background.png");
+height: 100vh;
+align-items: center;
+text-align: center;
+display: grid;
+grid-template-columns: 50% 50%;
+}
+
+.img_combo{
+margin-bottom: 50;
+}
+.p2{align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.titulo2{
+
+
+}
+
+.p3{align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+.p4{align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+    .botão {
+    display: block;
+    color : white;
+     blackgraund : blue;
+    }
